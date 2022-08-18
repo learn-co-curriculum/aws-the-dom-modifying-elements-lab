@@ -294,14 +294,14 @@ And it's gone!
 From this point forward, many of the labs will work a little differently from
 ones you've done before. Specifically, the tests will mock the process of 1)
 running JavaScript code in the browser and 2) seeing the results of that code
-represented in the DOM. Take a look at `test/indexTest.js` to see the tests'
-descriptions of the changes your code should be making to the DOM elements.
+represented in the DOM. Take a look at the tests in your terminal to see the
+descriptions of the changes your code should be making to the DOM elements
 
 Note that you do not need to create functions for this lab. Just create the line
 or lines of JavaScript necessary to pass each test. As usual, you will write
 your code in the `index.js` file.
 
-One final note: the last test in the `test/indexTest.js` file is looking for the
+One final note: the last test is looking for the
 text "YOUR-NAME is the champion" (with your name — or whatever text you choose —
 in place of YOUR-NAME) inside your newly created DOM node. While there are a
 number of ways you could accomplish this, you should use either the
